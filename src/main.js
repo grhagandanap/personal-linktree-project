@@ -1,7 +1,7 @@
 import Typed from 'typed.js';
 
 const typed = new Typed("#typed", {
-    strings: ["Web Developer", "Petroleum Engineer", "Data Analyst"],
+    strings: ["Fullstack Developer", "Petroleum Engineer", "Data Analyst"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
